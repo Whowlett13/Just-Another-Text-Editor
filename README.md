@@ -4,6 +4,7 @@
 
 - Description Of Functionality
 - Installation
+- Screen Shot Of Deployed Application
 - Link to Deployed Application
 - Built With
 - License
@@ -21,6 +22,10 @@ npm install
 Then run the following command:
 
 npm run start:dev
+
+## Screen Shot Of Deployed Application:
+
+- Link: ![Screenshot (239)](https://github.com/Whowlett13/Just-Another-Text-Editor/assets/116604140/1c2389a4-4a28-478a-a37a-43c5f9b4bbdc)
 
 ## link To Deployed Application:
 
